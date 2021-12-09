@@ -237,6 +237,10 @@ button {
     max-width: 445px;
     width: 100%;
   }
+
+  input, button {
+    height: 56px;
+  }
   
   input {
     max-width: 345px;
